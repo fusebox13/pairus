@@ -1,0 +1,35 @@
+{
+  "foundation": [
+    { "name": "Jim", "anchor": false, "selected": true },
+    { "name": "Jeff", "anchor": false, "selected": true },
+    { "name": "Craig", "anchor": false, "selected": true },
+    { "name": "Will", "anchor": false, "selected": true },
+    { "name": "Moo", "anchor": false, "selected": true }
+  ],
+  "onboarding": [
+    { "name": "Kevin", "anchor": false, "selected": true },
+    { "name": "Ben", "anchor": false, "selected": true },
+    { "name": "Nikil", "anchor": false, "selected": true },
+    { "name": "Shuba", "anchor": false, "selected": true },
+    { "name": "Sam", "anchor": false, "selected": true },
+    { "name": "Corrine", "anchor": false, "selected": true },
+    { "name": "Mo", "anchor": false, "selected": true },
+    { "name": "Henry", "anchor": false, "selected": true }
+  ],
+  "insights": [
+    { "name": "Zach", "anchor": false, "selected": true },
+    { "name": "Jason", "anchor": false, "selected": true },
+    { "name": "Dev", "anchor": false, "selected": true },
+    { "name": "Stephen", "anchor": false, "selected": true }
+  ],
+  "cartography": [
+    { "name": "Joanne", "anchor": false, "selected": true },
+    { "name": "Jennifer", "anchor": false, "selected": true }
+  ],
+  "driver": [
+      { "name": "Albert", "anchor": false, "selected": true },
+      { "name": "Loren", "anchor": false, "selected": true },
+      { "name": "Kunle", "anchor": false, "selected": true },
+      { "name": "Dan", "anchor": false, "selected": true }
+  ]
+}
