@@ -28,7 +28,6 @@ export default {
       team: [],
       finalPairs: [],
       soloPair: {},
-      blink: false
     };
   },
   props: {
@@ -130,6 +129,8 @@ export default {
         transform: scale(2);
         background: #2A6BAC;
         text-shadow: 2px 2px 4px #081534;
+        box-shadow: 2px 2px 4px #081534;
+        cursor: pointer;
         
       }
       ul {

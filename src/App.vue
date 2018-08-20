@@ -50,7 +50,7 @@ export default {
 
 body {
   font-family: 'Amatic SC', cursive;
-  background: #2A6BAC;
+  background: linear-gradient(to bottom,  #47A8E5 0%, #2A6BAC 50%, #081534 100%);
   color: white;
   width: 100vw;
   height: 100vh;
