@@ -1,4 +1,4 @@
-# pairalyzer
+# Pair Us
 
 ## Project setup
 ```
